@@ -1,0 +1,48 @@
+body {
+	background-color:  black;
+	
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+	 }
+
+.intro {
+	font-family: verdana;
+	font-weight: normal;
+	text-align: center;
+	color:white;
+	font-size: 30px;
+	
+}
+.second {
+	font-size: 12px;
+	color: aquamarine;
+	text-align: center;
+	
+	
+	text-decoration: underline;
+}
+
+.media {
+	text-align: center;
+	
+
+}
+.third {
+	background-color: black;
+	text-align: center;
+	font-family: verdana;
+	font-weight: 250;
+	font-size: 30px;
+	color: white;
+}
+p {
+	font-family: verdana;
+	font-size: 21px;
+	color: gray;
+}
+.last {
+	text-align: right;
+	color: gray;
+}
